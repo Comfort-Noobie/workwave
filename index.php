@@ -1,10 +1,3 @@
-<!-- 
-Credit : LearnDesign
-Youtube Channel : https://youtube.com/learndesigntutorial
-Email : help.learndesign@gmail.com
-For Support : https://www.patreon.com/helplearndesign
--->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
